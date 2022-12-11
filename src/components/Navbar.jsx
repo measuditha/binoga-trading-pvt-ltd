@@ -4,8 +4,8 @@ import Logo from '../assets/BinogaWite.png'
 export const Navbar = () => {
 
   return (
-    <div>
-      <nav className='bg-transparent px-2 sm:px-4 dark:bg-transparent-900'>
+    <div className='relative'>
+      <nav className='relative bg-transparent px-2 sm:px-4 dark:bg-transparent-900'>
         <div className='fixed container flex flex-wrap items-center justify-between mx-auto px-5'>
           <img src={Logo} className="h-6 mr-3 sm:h-9" alt='logo' />
           <div 
