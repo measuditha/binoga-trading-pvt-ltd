@@ -10,7 +10,6 @@ export const Home = () => {
        <div className='absolute top-[25%] w-full md:[50%] max-w-[1280px] h-full flex flex-col text-white p-4'>
         <h1 className='text-[100px] ml-[200px] font-Roboto'> Binoga Trading</h1>
        </div>
-
       </div>
     </div>
 

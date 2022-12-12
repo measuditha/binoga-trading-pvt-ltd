@@ -16,7 +16,7 @@ export const Navbar = () => {
                 <NavLink to='/'>Home</NavLink>
               </li>
               <li className="block py-2 pl-3 pr-4 text-white md:bg-transparent md:p-0 dark:text-white">
-                <NavLink to='/Welcome' >Welcome</NavLink>
+                <NavLink to='/Products' >Products</NavLink>
               </li>
               <li className="block py-2 pl-3 pr-4 text-white md:bg-transparent md:p-0 dark:text-white">
                 <NavLink to='/Policies'>Policies</NavLink>
