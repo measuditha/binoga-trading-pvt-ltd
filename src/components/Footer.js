@@ -48,7 +48,7 @@ function Footer() {
                     <Link to="#" href = "mailto: udyogafon@binogatrading.lk">udyogafon@binogatrading.lk</Link>
                   </li>
                   <li>
-                    <Link to="#" >071-1136296</Link>
+                    <Link to="#" >+94711136296</Link>
                   </li>
                 </ul>
               </div>
